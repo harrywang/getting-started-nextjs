@@ -51,10 +51,7 @@ export default function Home() {
 
       <p>
         Dream something with{" "}
-        <a href="https://replicate.com/stability-ai/stable-diffusion">
-          stability-ai/stable-diffusion
-        </a>
-        :
+        <a href="https://replicate.com/cjwbw/anything-v4.0">anything-v4</a>:
       </p>
 
       <form className={styles.form} onSubmit={handleSubmit}>
